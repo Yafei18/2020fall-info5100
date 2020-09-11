@@ -1,0 +1,42 @@
+Objects (Types or Classes) involved in booking an uber ride
+
+Address
+
+Driver
+
+	Behavior:
+		boolean arrivesAtPassengerLocation(Address address)
+		Message sendMessage(Passenger passenger)
+
+Passenger
+
+	Behavior:
+		Driver bookRide(UberApp app, Address startAddress, Address endAddress)
+		void acceptRide(Driver driver)
+		
+
+Car
+
+UberApp
+
+--------
+Driver Lu, Ji;
+Passenger fang;
+Address luAddresss, jiAddress, fangStartAddress, fangEndAddress;
+Car LuCar, JiCar
+UberApp LuApp, JiApp, FangApp
+-------
+---------Flow----
+
+Driver driver = fang.bookRide(FangApp, fangStartAddress, fangEndAddress)
+fang.acceptRide(driver)
+driver.arrivesAtPassengersLocation(fangStartAddress)
+driver.sendMessage(fang)
+fang.stepsOutside()
+fang.getsIntoCar(driver.getCar())
+Address address = driver.provideRide(fangEndAddress)
+Number amount = driver.provideBill(fang)
+fang.payBillUsingCreditCard(amount)
+
+-----
+
