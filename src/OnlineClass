@@ -1,0 +1,63 @@
+Scenario to simulate online class
+
+Objects
+
+VirtualClassRoom
+
+	startClass(Teacher t, Student a, Student b, Student c)
+
+
+Teacher
+	loginToComputer()
+	greetStudents()
+	teach()
+	answerQuestion()
+
+Student
+
+	loginToZoom()
+	listenToLectures()
+	askQuestions()
+	takeNotes()
+	getDistracted()
+	watchFacebook();;//fun
+
+
+
+Computer
+
+	recordLectures()
+		- covertVideoToDigitalForma()
+		- saveVideoOnCloud()
+		
+	givePopups()
+		-showAWindow()
+		- displayAMessage()
+	shareScreen()
+		- showScreenToOtherParticipants()
+	transferVideo()
+	transferAudio()
+	connectToInternet()
+	
+----------
+
+Teacher siva
+Student yating, yinxing
+Computer sivaComputer, yatingComp, yinxingComp
+
+--------------------------
+
+VirtualClassRoom virtualClassRoom;
+classRoom.start( siva, yating, yinXing)
+
+	siva.loginToComputer()
+	yating.loginToComputer()
+	yinxing.loginToComputer()
+	siva.greetStudents()
+	siva.teach()
+	yating.listenToLectures()
+	yating.takeNotes()
+	yinxing.getsDistracted()
+
+
+

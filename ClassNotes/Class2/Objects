@@ -1,0 +1,130 @@
+Object can have data and behaviors
+	Data (Information, Property, Attribute):
+	Behaviors (Methods, Functions, Services, procedures, routines, tasks):
+	
+Think in Objects
+
+Color
+
+
+Apple
+	data:
+		Color color
+		FractionalNumber weight
+		FractionalNumber price
+	behaviors
+		giveNutrition
+		giveEnergy
+		fulfillHunger
+		throw
+		provideFun
+	
+
+Cat
+	data:
+		CatBreed breed
+		String color
+		Boolean gender
+		Boolean fur
+		Number age
+		Number weight
+	behaviors
+		jump
+		run
+		meow
+		scratch
+		interactAsPet
+		
+
+CatBreed
+
+
+iPhone
+
+	Behavior
+		makeAPhoneCall	
+
+
+What is data?
+
+	Age is a number
+	Price is a number (that can have decimals)
+	Gender is a String
+	//String is a collection of letters
+	Letter is a character 
+	Word is a collection of characters
+	taste is a boolean 
+	
+Data has name and type
+
+	<Type> <name>
+
+
+Standard Types
+	Number
+		WholeNumber
+		FractionalNumber
+	Character
+	Boolean
+	String
+	
+Custom Types or Objects
+
+
+Behavior
+	<Output> <Name> : <Input1>, <Input2>, <Input3>
+	
+iPhone -> Make a Phone Call Behavior
+	Name : makePhoneCall or MakeAPhoneCall or make_phone_call or dialAnotherNumber
+	Input(s): Number Phone Number 
+	Output : DialResponse
+
+Student:
+	
+	Behavior
+		sumOfTwoNumbes : input -> numberA and numberB : output -> Number
+
+
+
+Definition of a car: Definition of an object is a Class (Definition), Object is the real thing, Behaviors are what we use
+
+
+Car (Class)
+	Data
+		String transmission;
+		String make;
+		String exteriorColor;
+	Behavior
+		Address drive(Address place, Speed speed, Driver driver)
+
+
+Car yidanCar
+Address sivaHome
+Speed 50MilesPerHour
+Driver siva
+Address a = yidanCar.drive(sivaHome, 50MilesPerHour, siva)
+print a	
+
+	
+
+Address
+
+
+Speed
+
+
+Driver
+
+	
+
+
+
+	
+	
+	
+	
+		
+	
+
+	
+	
