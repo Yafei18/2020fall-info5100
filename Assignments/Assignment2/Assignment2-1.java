@@ -1,5 +1,5 @@
 /**
- * The deadline of this assignment is 09/21/2018 23:59 PST.
+ * The deadline of this assignment is 09/25/2020 23:59 PST.
  * Please feel free to contact Yafei and Yaqi for any questions.
  */
 
