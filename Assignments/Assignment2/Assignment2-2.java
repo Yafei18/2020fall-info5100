@@ -17,7 +17,7 @@ public class Assignment2-2 {
      * Input: nums = [1]
      * Output: 1
      */
-    public double socialSecurityTax(Employee employee) {
+    public int maxSubArray(int[] nums) {
         //write your code here
     }
 
