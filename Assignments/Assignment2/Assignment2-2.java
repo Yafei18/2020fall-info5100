@@ -1,4 +1,4 @@
-public class Assignment2-1 {
+public class Assignment2-2 {
         /**
          * Given an integer array nums, find the contiguous subarray (containing at least one number)
          * which has the largest sum and outprint its sum.
