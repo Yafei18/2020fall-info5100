@@ -1,6 +1,6 @@
 # 2020fall-info5100
 
-**Class zoom link**:
+**Class Zoom Link**:
 
 https://northeastern.zoom.us/j/94767466091?pwd=cVZ3TkJmaXh4RWE1dUpYazliVmxWQT09
 
@@ -8,7 +8,7 @@ https://northeastern.zoom.us/j/94767466091?pwd=cVZ3TkJmaXh4RWE1dUpYazliVmxWQT09
   - Every Tuesday (3:30PM to 5:00PM PST)
   - Every Thursday (3:30PM to 5:00PM PST)
 
-**information spreadsheet**:
+**Information Spreadsheet**:
 
 https://docs.google.com/spreadsheets/d/112gaM9l8e1fgHtnBZzQ6mTu2zAdBKJ8kYFWktRSKa7o/edit#gid=1085512228
 
