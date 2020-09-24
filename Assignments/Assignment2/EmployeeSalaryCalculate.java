@@ -30,7 +30,7 @@ enum Gender {
     FEMALE;
 }
 
-public class Assignment2-1 {
+public class EmployeeSalaryCalculate {
     // Assignment
 
     /**
