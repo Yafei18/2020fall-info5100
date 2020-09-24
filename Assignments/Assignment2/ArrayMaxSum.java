@@ -3,7 +3,7 @@
  * Please feel free to contact Yafei and Yaqi for any questions.
  */
 
-public class Assignment2-2 {
+public class ArrayMaxSum {
     /**
      * Given an integer array nums, find the contiguous subarray (containing at least one number)
      * which has the largest sum and outprint its sum.
