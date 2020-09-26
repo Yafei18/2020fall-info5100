@@ -60,9 +60,9 @@ public String reverse(String s) { }
 
 **Requirements**
 
-+ Try to refractor the Student class in the first question using builder pattern.
-
++ Try to refractor the **Professor class** using builder pattern. 
++ Each Professor has **firstName**, **lastName** and an **id** variable; 
 + For this question please implement the builder class as the inner class. 
-
++ Try to create a Professor instance using builder in **class Test’s main method**. 
 + Example are provided in the folder name *Employee.java*
 
