@@ -12,7 +12,7 @@
 
 **Requirements**
 
-+ using 2 classes: **class Student **& **class Course**. 
++ using 2 classes: **class Student** & **class Course**. 
 + Implement the scenarios in **class Test’s main method**. 
 + Each student has a **name** and an **id** variable. 
 + Each object of class Student is initialized using values of **name** and **id** passed to constructor. 
