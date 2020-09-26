@@ -1,6 +1,6 @@
 <h3>Assignment3</h3>
 
-**Deadline：Dec 2, 23:59 PST **
+**Deadline：Dec 2, 23:59PM PST**
 
 + Please submit .java files Extra credits are added only if total score is less than 10
 
