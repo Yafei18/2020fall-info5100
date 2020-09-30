@@ -32,7 +32,7 @@
 
 Given an input string, reverse the string word by word. 
 
-Example: Input: “The sky is blue”, 
+Example: Input: “the sky is blue”, 
 
 output: “blue is sky the”.
 
