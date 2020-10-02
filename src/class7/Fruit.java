@@ -1,6 +1,6 @@
 package class7;
 
-class Fruit {
+abstract class Fruit {
 	private double price;
 	private boolean juicy;
 

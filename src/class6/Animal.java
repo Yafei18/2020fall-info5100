@@ -1,6 +1,6 @@
 package class6;
 
-public class Animal {
+abstract public class Animal {
 	public void breathe() {
 		System.out.println("Animal can breathe");
 	}
@@ -22,7 +22,8 @@ public class Animal {
 	}
 
 	public static void main(String args[]) {
-		Animal animal = new Animal();
+		//Animal animal = new Animal();
+		Animal animal = new Mammal();
 		animal.breathe();
 		animal.sleep();
 		animal.eat();
