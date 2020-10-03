@@ -49,15 +49,15 @@ Please submit .java files
           
              //Constructed a Circle with Circle()
              //Run of the program should produce the following output:
-             //Radius is 2.0, Color is yellow, Base area is 4.0
+             //Radius is 2.0, Color is yellow, Base area is (your answer)
              
              //Constructed a Cylinder with Cylinder()
              //Run of the program should produce the following output:
-             //Radius is 1.0, Height is 1.0, Color is red, Base area is 3.141592653589793, Volume is 3.141592653589793
+             //Radius is 1.0, Height is 1.0, Color is red, Base area is (your answer), Volume is (your answer)
        
              //Constructed a Cylinder with Cylinder(height, radius)
              //Run of the program should produce the following output:
-             //Radius is 2.0, Height is 5.0, Color is red, Base area is 12.566370614359172, Volume is 62.83185307179586
+             //Radius is 2.0, Height is 5.0, Color is red, Base area is (your answer), Volume is (your answer)
           }
        }
        ```
