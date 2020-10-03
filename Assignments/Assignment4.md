@@ -18,7 +18,7 @@ Please submit .java files
 
      ```Input: [3,2,3,1,2,4,5,5,6] and k = 4 Output: 4```
 
-   * **Note: **
+   * **Note:**
 
      * You may assume k is always valid, 1 ≤ k ≤ array's length.
      * Inplement the test cases in class Test's main method. Please don't forget to consider about the corner cases.
