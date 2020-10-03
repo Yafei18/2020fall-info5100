@@ -46,6 +46,10 @@ Please submit .java files
      * ```
        public class TestCylinder {
           public static void main(String[] args) {
+          
+             //Constructed a Circle with Circle()
+             //Run of the program should produce the following output:
+             //Radius is 2.0, Color is yellow, Base area is 4.0
              
              //Constructed a Cylinder with Cylinder()
              //Run of the program should produce the following output:
