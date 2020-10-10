@@ -17,13 +17,17 @@ The **Candy**, **Cookie**, and **IceCream** classes will be derived from the Des
 
 <h3>The DessertItem Class</h3>
 
-The **DessertItem class** is an abstract superclass from which specific types of DessertItems can be derived. It contains only one data member, a name. It  also defines a number of methods. All of the **DessertItem class** methods except the *getCost()* method are defined in a generic way in the file ClassDessertItem, provided for you along with the other homework specific files in the directory. The *getCost()* method is an abstract method that is not defined in the DessertItem class because the method of determining the costs varies based on the type of item. Tax amounts should be rounded to the nearest cent. For example, the calculating the tax on a food item with a cost of 199 cents with a tax rate of 2.0% should be 4 cents. The complete specifications for the **DessertItem class** are provided in the file Class-DessertItem
+The **DessertItem class** is an abstract superclass from which specific types of DessertItems can be derived. 
+
+It contains only one data member, a *name*. It  also defines a number of methods. All of the **DessertItem class** methods except the *getCost()* method are defined in a generic way in the file ClassDessertItem, provided for you along with the other homework specific files in the directory. The *getCost()* method is an abstract method that is not defined in the DessertItem class because the method of determining the costs varies based on the type of item. Tax amounts should be rounded to the nearest cent. For example, the calculating the tax on a food item with a cost of 199 cents with a tax rate of 2.0% should be 4 cents. The complete specifications for the **DessertItem class** are provided in the file Class-DessertItem
 
 
 
 <h3>The DessertShoppe Class</h3>
 
-The **DessertShoppe class** contains constants such as the tax rate as well the name of the store, the maximum size of an item name and the width used to display the costs of the items on the receipt. Your code should use these constants wherever necessary! The **DessertShoppe class** also contains the **cents2dollarsAndCents()** method which takes an integer number of cents and returns it as a String formatted in dollars and cents. For example, 105 cents would be returned as "1.05"
+The **DessertShoppe class** contains constants such as the tax rate as well the name of the store, the maximum size of an item name and the width used to display the costs of the items on the receipt. Your code should use these constants wherever necessary! 
+
+The **DessertShoppe class** also contains the **cents2dollarsAndCents()** method which takes an integer number of cents and returns it as a String formatted in dollars and cents. For example, 105 cents would be returned as "1.05"
 
 
 
@@ -47,7 +51,9 @@ The **Sundae** class should be derived from the **IceCream** class. The *cost* o
 
 <h3>The Checkout Class</h3>
 
-The **Checkout** class, provides methods to enter dessert items into the cash register, clear the cash register, get the number of items, get the total cost of the items (before tax), get the total tax for the items, and get a String representing a receipt for the dessert items. The **Checkout** class must use a Vector to store the DessertItem's. The total tax should be rounded to the  nearest cent. The complete specifications for the **Checkout** class are provided in the file Class-Checkout.
+The **Checkout** class, provides methods to enter dessert items into the cash register, clear the cash register, get the number of items, get the total cost of the items (before tax), get the total tax for the items, and get a String representing a receipt for the dessert items. 
+
+The **Checkout** class must use a Vector to store the DessertItem's. The total tax should be rounded to the  nearest cent. The complete specifications for the **Checkout** class are provided in the file Class-Checkout.
 
 
 
