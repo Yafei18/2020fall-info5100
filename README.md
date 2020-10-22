@@ -2,7 +2,7 @@
 
 **Class Zoom Link**:
 
-https://northeastern.zoom.us/j/94767466091?pwd=cVZ3TkJmaXh4RWE1dUpYazliVmxWQT09
+https://northeastern.zoom.us/j/91042137669?pwd=UGhacmpCY3NsZnIrODgwNDJIVXdIZz09
 
 - Timing for our classes
   - Every Tuesday (3:30PM to 5:00PM PST)
