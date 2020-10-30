@@ -2,13 +2,17 @@ package class13.threads;
 
 public class Person {
 	public void speak() {
+		loop("Speaking");
+	}
+
+	public static void loop(String action) {
 		for (int i = 0; i < 10; i++) {
-			System.out.println(i + ". Person is speaking");
+			System.out.println(i + ". Person is " + action);
 			pause(10);
 		}
 	}
 
-	private void pause(int i) {
+	public static void pause(int i) {
 		try {
 			Thread.sleep(10);
 		} catch (Exception e) {
@@ -17,10 +21,7 @@ public class Person {
 	}
 
 	public void think() {
-		for (int i = 0; i < 10; i++) {
-			System.out.println(i + ". Person is thinking");
-			pause(10);
-		}
+		loop("Thinking");
 	}
 
 	public static void main(String args[]) throws Exception {
