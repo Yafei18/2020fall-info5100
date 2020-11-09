@@ -41,7 +41,7 @@ Your application should do the following:
   MAILBOX CAPACITY: 500mb
   ```
 
-* **Please don't make any changes to the Email.java file**
+* **Please don't make any changes to the EmailApp.java file**
 
 ## Tic Tac Toe Game
 
