@@ -101,7 +101,7 @@ Requirements:
       1. deposit(int amount)
       2. withdraw(int amount)
       3. getBalance()
-   2. Write a main function to simulate the back system. Use multi threading to randomly deposit of withdraw random amount.
+   2. Write a main function to simulate the bank system. Use multi threading to randomly deposit or withdraw random amount.
 
 
 
