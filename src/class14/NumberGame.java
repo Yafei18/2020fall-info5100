@@ -126,3 +126,12 @@ class FileEntryManagerImpl extends EntryManagerImpl {
 	}
 
 }
+
+class ObjectEntryManagerImpl extends EntryManagerImpl{
+	
+}
+
+
+
+
+
