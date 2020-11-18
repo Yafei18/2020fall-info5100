@@ -1,0 +1,9 @@
+How to create a GUI Program
+
+- Define a Container (like JFrame)
+- Identify the components that will be needed for the UI (like JButton, JLabel, JTextField)
+- Define the Layout through which you will add the components to the Container (like FlowLayout etc)
+- Create the components
+- Add the components to the container using .add method in Container
+- Identify the actions you want to perform when components are interacted with (like button clicks, entering in text field etc)
+- Create Listeners to perform actions when these components are clicked
