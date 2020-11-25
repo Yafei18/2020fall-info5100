@@ -1,5 +1,4 @@
-There are there class that can help to manipulate data:
-No need to care about database manipulation, just call the method in these class. 
+There are some classes that can help to manipulate data. No need to care about database manipulation, just call the method in these class. 
  ## 1. /src/dao/maintainDealer
  ####   add a dealer into database. require a dealer class. id and name should not be null. 
     public void addDealer(Dealer d){

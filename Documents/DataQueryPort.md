@@ -1,6 +1,4 @@
-these are some methods that can be used for basic querys from DB.
-Note that these methods are not the query methods that will be used for interactive. 
-I will write one or two class in 'service' package, which is a useable port for multi-filter and sort intention.
+These are some methods that can be used for basic queries from DB. Not that these methods are not the query methods that will be used for interactive. I will write one or two class in 'service' package, which is a useable port for multi-filter and sort intention.
 
 #   DealerManager 
 ```
